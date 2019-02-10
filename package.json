@@ -1,0 +1,35 @@
+{
+  "name": "iobroker.airpurifier",
+  "version": "0.0.1",
+  "description": "AirPurifier",
+  "author": {
+    "name": "Victor",
+    "email": "victor@svetogor.cc"
+  },
+  "homepage": "https://github.com/VictorSvetogor/ioBroker.airpurifier",
+  "license": "MIT",
+  "keywords": [
+    "ioBroker",
+    "template",
+    "Smart Home",
+    "home automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VictorSvetogor/ioBroker.airpurifier"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/gulp": "^4.0.5",
+    "axios": "^0.18.0",
+    "eslint": "^5.13.0",
+    "gulp": "^4.0.0",
+    "tslint": "^5.12.1"
+  },
+  "main": "widgets/airpurifier.html",
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/VictorSvetogor/ioBroker.airpurifier/issues"
+  },
+  "readmeFilename": "README.md"
+}
